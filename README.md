@@ -6,7 +6,7 @@
 - 🥇 Participaciones:
 
 <a  href="https://api.eu.badgr.io/public/assertions/M5lakPhtQreH-fQsGgABzw" >
-    <img src="https://media.eu.badgr.com/uploads/badges/assertion-M5lakPhtQreH-fQsGgABzw.png">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-M5lakPhtQreH-fQsGgABzw.png" heigh="125px">
 </a>
 
 
