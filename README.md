@@ -6,7 +6,7 @@
 - 🥇 Participaciones:
 
 <a  href="https://api.eu.badgr.io/public/assertions/M5lakPhtQreH-fQsGgABzw" >
-    <img src="https://github.com/briggittelew/octo-brocoli/blob/master/Discovery%20Womens%20Edition.png?raw=true">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-M5lakPhtQreH-fQsGgABzw.png">
 </a>
 
 
